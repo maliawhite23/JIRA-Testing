@@ -1,0 +1,1 @@
+This file shows how one would extract the email that the user signed up with
